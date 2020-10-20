@@ -1,0 +1,114 @@
+body{
+    background-color:#98c1d9;
+    font-family: Arial, Georgia, "Times New Roman", Times, serif;
+}
+
+main{
+    background-color: #293241;
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#title {
+    padding-bottom: 0%;
+    align-content: center;
+    margin: auto;
+    width: 60%;
+}
+
+h1{
+    text-align: center;
+    color: #ee6c4d;
+    padding-bottom: 0%;
+    margin: auto;
+    text-transform: uppercase;
+}
+
+p{ padding-top: 0%;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+
+
+
+#heading{
+    text-align: left;
+    text-transform: uppercase;
+    color: #ee6c4d;
+}
+.survey-form{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    color: #005C7A;
+    background-color: #DBDAD7;
+    border-radius: 5px;
+}
+.cbox{
+    display: block;
+    padding-left: 15px;
+    text-indent: -15px;
+}
+
+.cinput{
+    width: 13px;
+    height: 13px;
+    padding: 0;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top:-1px;
+    overflow: hidden;
+}
+
+textarea{
+    width: 100%;
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #DBDAD7;
+}
+
+select{
+    font-size: 14px;
+    width: 30%;
+    height: 100px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #DBDAD7;
+}
+
+option{
+    color: #005C7A;
+}
+
+
+
+.submit-btn{
+   text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 4px; 
+    border-color: #DBDAD7;
+    font-size: 30px; 
+    color:  #DBDAD7;
+    width: 30%;
+    background-color: #ee6c4d;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+  }
+
